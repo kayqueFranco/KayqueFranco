@@ -32,9 +32,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kayqueFranco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=kayqueFranco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayqueFranco&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kayqueFranco&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
@@ -60,9 +60,14 @@
 
 ## 📫 Como falar comigo
 
-- 📧 Email: [kayque.franco2018@email.com](mailto:kayque.franco2018@email.com)
-- 💼 LinkedIn: [Kayque Franco](https://www.linkedin.com/in/kayque-franco-63aa922a5/)
-- 💻 GitHub: [@kayqueFranco](https://github.com/kayqueFranco)
+
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kayque.franco2018@email.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayquefranco)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kayqueFranco)
+- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511958743316)
+- [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/kayquefranco)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/__ofrancooo)
+
 
 ---
 
