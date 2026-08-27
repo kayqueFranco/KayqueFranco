@@ -8,6 +8,16 @@
 
 ---
 
+## 🎓 Formação
+
+* 💻 **Técnico em Informática — SENAC**
+  Formação concluída, com foco em desenvolvimento de sistemas, banco de dados, redes e suporte técnico.
+
+* 🎓 **Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul**
+  Cursando — 2º semestre.
+
+---
+
 ## 🔧 Tecnologias que eu uso no dia a dia
 
 <div align="center">
@@ -52,37 +62,35 @@
 
 </div>
 
-- TypeScript
-- Express
-- MySQL
+* TypeScript
+* Express
+* MySQL
 
 ---
 
 ## 📫 Como falar comigo
 
-
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kayque.franco2018@email.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayquefranco)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kayqueFranco)
-- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511958743316)
-- [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/kayquefranco)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/__ofrancooo)
-
+* [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:kayque.franco2018@email.com)
+* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kayquefranco)
+* [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/kayqueFranco)
+* [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square\&logo=whatsapp\&logoColor=white)](https://wa.me/5511958743316)
+* [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square\&logo=dev.to\&logoColor=white)](https://dev.to/kayquefranco)
+* [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/__ofrancooo)
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de ADS e venho desenvolvendo projetos para colocar em prática meus conhecimentos em programação.
+Sou estudante de Análise e Desenvolvimento de Sistemas e formado como Técnico em Informática pelo SENAC. Venho desenvolvendo projetos para colocar em prática meus conhecimentos em programação e ampliar minha experiência na área de tecnologia.
 
 Tenho experiência e interesse principalmente em:
 
-- 🌐 Desenvolvimento Web
-- ⚙️ Backend
-- 🗄️ Bancos de dados
-- 🖥️ Aplicações desktop
-- 🔌 APIs REST
-- 📊 Desenvolvimento de sistemas
+* 🌐 Desenvolvimento Web
+* ⚙️ Backend
+* 🗄️ Bancos de dados
+* 🖥️ Aplicações desktop
+* 🔌 APIs REST
+* 📊 Desenvolvimento de sistemas
 
 ---
 
